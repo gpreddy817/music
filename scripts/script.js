@@ -10,58 +10,58 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Mekan Sa",
-          artist: "Norm Ender",
+          name: "Dil ke paas",
+          artist: "Armaan Malik",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://github.com/gpreddy817/music/blob/main/mp3/06%20Dil%20Ke%20Paas%20(Unplugged)%20Armaan%20Malik%20190Kbps.mp3",
+          source: "https://github.com/gpreddy817/music/raw/main/mp3/06%20Dil%20Ke%20Paas%20(Unplugged)%20Armaan%20Malik%20190Kbps.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
         {
-          name: "Everybody Knows",
-          artist: "Leonard Cohen",
+          name: "Aashiqui 2 theme",
+          artist: "Mix",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
+          source: "https://github.com/gpreddy817/music/raw/main/mp3/128-Aashiqui%20(The%20Love%20Theme)%20-%20Aashiqui%202%20128%20Kbps.mp3",
           url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
           favorited: true
         },
         {
-          name: "Extreme Ways",
-          artist: "Moby",
+          name: "Desi Girl",
+          artist: "Vishal",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
+          source: "https://github.com/gpreddy817/music/raw/main/mp3/128-Desi%20Girl%20-%20Dostana%20128%20Kbps.mp3",
           url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
           favorited: false
         },
         {
-          name: "Butterflies",
-          artist: "Sia",
+          name: "Aawar Sham",
+          artist: "Ash",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/4.mp3",
+          source: "https://github.com/gpreddy817/music/raw/main/mp3/128-Aawara%20Shaam%20Hai%20-%20Meet%20Bros%20128%20Kbps.mp3",
           url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
           favorited: false
         },
         {
-          name: "The Final Victory",
-          artist: "Haggard",
+          name: "Tum Hi Ho",
+          artist: "Arijit Singh",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/5.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/5.mp3",
+          source: "https://github.com/gpreddy817/music/raw/main/mp3/128-Tum%20Hi%20Ho%20-%20Aashiqui%202%20128%20Kbps.mp3",
           url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
           favorited: true
         },
         {
-          name: "Genius ft. Sia, Diplo, Labrinth",
-          artist: "LSD",
+          name: "Teri galiyaan",
+          artist: "Ankit Tiwari",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/6.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/6.mp3",
+          source: "https://github.com/gpreddy817/music/raw/main/mp3/128-Galliyan%20-%20Ek%20Villain%20128%20Kbps.mp3",
           url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
           favorited: false
         },
         {
-          name: "The Comeback Kid",
-          artist: "Lindi Ortega",
+          name: "Titli",
+          artist: "Chinmayi",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/7.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/7.mp3",
+          source: "https://github.com/gpreddy817/music/raw/main/mp3/128-Titli%20-%20Chennai%20Express%20128%20Kbps.mp3",
           url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
           favorited: true
         },
