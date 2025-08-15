@@ -69,7 +69,7 @@ new Vue({
           name: "Overdose",
           artist: "Grandson",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
+          source: "https://github.com/gpreddy817/music/raw/main/mp3/128-Tera%20Chehra%20-%20Sanam%20Teri%20Kasam%20128%20Kbps.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
           favorited: false
         },
