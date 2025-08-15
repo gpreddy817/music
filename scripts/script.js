@@ -66,18 +66,18 @@ new Vue({
           favorited: true
         },
         {
-          name: "Overdose",
-          artist: "Grandson",
+          name: "Sweety Sweety",
+          artist: "Sidsharth Mahadevan",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
-          source: "https://github.com/gpreddy817/music/raw/main/mp3/128-Tera%20Chehra%20-%20Sanam%20Teri%20Kasam%20128%20Kbps.mp3",
+          source: "https://github.com/gpreddy817/music/raw/main/mp3/Sweety%20Sweety%20Video%20Song%20_Race%20Gurram%20Video%20Songs%20_%20Allu%20Arjun%2C%20Shruti%20hassan_S.S%20Thaman.m4a",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
           favorited: false
         },
         {
-          name: "Rag'n'Bone Man",
-          artist: "Human",
+          name: "gaganave baagi",
+          artist: "Shreya Ghoshal",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
+          source: "https://github.com/gpreddy817/music/raw/main/mp3/Gaganave-Baagi-Shreya-Ghoshal.mp3",
           url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
           favorited: false
         }
