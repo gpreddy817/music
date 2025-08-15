@@ -13,7 +13,7 @@ new Vue({
           name: "Mekan Sa",
           artist: "Norm Ender",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "C:\Users\Girish\Desktop\seminar\New folder\mini-player\mp3\ 06 Dil Ke Paas (Unplugged) Armaan Malik 190Kbps.mp3",
+          source: "https://github.com/gpreddy817/music/blob/main/mp3/06%20Dil%20Ke%20Paas%20(Unplugged)%20Armaan%20Malik%20190Kbps.mp3",
           url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
           favorited: false
         },
